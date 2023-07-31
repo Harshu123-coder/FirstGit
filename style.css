@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .border{
+    width: 500px;
+    height: 400px;
+    background-color: green;
+    /* border-color: black;
+    border-width: 10px;
+    border-style: solid; */
+    /* border: 5px solid black;
+    border-radius: 50px;
+} */ 
+
+/* a:link{
+  color: red;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: palevioletred;
+} */
+/* #h1 {
+    color: rgb(85, 10, 206);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;  /*change fonts of texts */
+    /* font-size: 3em;                     /*change font size */
+    /* font-variant: small-caps;          change letter to capital
+    color:  red;
+    letter-spacing: 5px;             /* spacing in letter */
+    /* word-spacing:5px ;               /*spacing in words*/
+    /* direction: rtl;                  /*direction change rotate right to left */
+    /* direction: ltr; */
+    /* text-indent: 50px;               text indent means para start with indentation */
+ 
+
+
+
+/* .backImg{
+            
+            width: 100%;
+            height:100vh;
+            background-color: rgb(232, 139, 0);
+            background-image: url('./image.jpg');
+            /* background-repeat: repeat-x; */
+            /* background-size: 100% 100%;
+        }
+
+         */
